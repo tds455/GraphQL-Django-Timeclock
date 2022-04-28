@@ -132,4 +132,4 @@ query {
 ```
 
 ## Notes
-This was my first project working with graphQL.  In some places best practices may not be followed and I learnt a lot on the go, so I'm especially grateful for any feedback!
+This was my first project working with graphQL and I learnt a lot on the go, so I'm especially grateful for any feedback!

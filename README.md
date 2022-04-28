@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 Open project folder and perform migrations
 ```
+cd timeclock
 python manage.py makemigrations api
 python manage.py migrate
 ```
